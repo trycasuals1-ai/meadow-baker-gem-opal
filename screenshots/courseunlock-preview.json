@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CourseUnlock",
+      "hasCanvas": false,
+      "bodyTextLen": 451,
+      "bodyTextHash": "058f67dab98ad9254f7f3dc16ebaefaf4bc203b83ec56da64ace547ecf7a1214",
+      "bodyTextPrefix": "CourseUnlock Privacy Terms COURSEUNLOCK Digital product selling ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/courseunlock-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CourseUnlock",
+      "hasCanvas": false,
+      "bodyTextLen": 419,
+      "bodyTextHash": "e31eb289cab1e3185373732d4bfdb098782ce097952b38c175cec195e3a4aa98",
+      "bodyTextPrefix": "CourseUnlock Privacy Terms COURSEUNLOCK Digital product selling ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/courseunlock-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/courseunlock-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
